@@ -1,13 +1,5 @@
         * Copyright (c) 2024- 2025 nyx4d;
-        * You must get strict approval from me and each chatGPT before repurposing this project. Thank you :)
-        *
-        * This project makes use of the amazing Three.js library created by mr.doob and many more, which is licensed under the MIT License.
-        *
-        * This software is provided "as is", without any warranty of any kind, express or implied,
-        * including but not limited to the warranties of merchantability, fitness for a particular purpose,
-        * and noninfringement. In no event shall the authors or copyright holders be liable for any claim,
-        * damages, or other liability, whether in an action of contract, tort, or otherwise, arising from,
-        * out of, or in connection with the software or the use or other dealings in the software.
+        * You must get strict approval from me and each chatGPT before repurposing any file within this Repository. Thank you :)
         * 
         * Additional Terms and Conditions:
 
@@ -15,3 +7,13 @@
         2. The Software shall be used in a manner that promotes positive and constructive outcomes.
         3. Any use of the Software must be approved by the author or a designated representative.
         4. The author reserves the right to revoke the license if these terms and conditions are violated.
+
+        ## Libraries Used and Their Licenses
+
+       ### Three.js
+       Three.js is licensed under the MIT License.
+       - [Three.js License](https://github.com/mrdoob/three.js/blob/dev/LICENSE)
+
+       ### dat.GUI
+       dat.GUI is licensed under the Apache License 2.0.
+       - [dat.GUI License](https://github.com/dataarts/dat.gui/blob/master/LICENSE)
